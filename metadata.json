@@ -1,0 +1,6 @@
+{
+  "name": "Cambridge B2 Teacher's Guide",
+  "description": "Curriculum planner and lesson structure guide for teaching Cambridge B2 First.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
